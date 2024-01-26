@@ -10,5 +10,5 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
 
-<iframe src="https://appsmith.kantinum.app/app/retirement-planner/login-6586cc62750a467097fbb286?embed=true" title="W3Schools Free Online Web Tutorials">
+<iframe id="embeddedAppsmith"  src="https://appsmith.kantinum.app/app/retirement-planner/login-6586cc62750a467097fbb286?embed=true" scrolling="yes" seamless="seamless" style="display:block; width:100%; height:100vh;>
 </iframe>
